@@ -1,0 +1,65 @@
+/*signup and login styling*/
+.form-container{
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+    padding-bottom: 60px;
+    background: gray;
+}
+.form-container form{
+    padding: 20px;
+    border-radius: 5px;
+    box-shadow: 0 5px 10px black;
+    background: #fff;
+    text-align: center;
+}
+.form-container form h3{
+    font-size: 30px;
+    text-transform: uppercase;
+    margin-bottom: 10px;
+}
+.form-container form input,.form-container form select{
+
+    width: 60%;
+    height: 20%;
+    padding: 10px 15px;
+    font-size: 18px;
+    margin:0px;
+    background: #eee;
+    border-radius: 5px;
+}
+.form-container form select option{
+    background: #fff;
+}
+.form-container form .form-btn{
+    background: gray;
+    color: orangered;
+    text-transform: capitalize;
+    cursor: pointer;
+    font-size: 20px;
+}
+.form-container form .form-btn:hover{
+    background: orangered;
+    color: #fff;
+}
+.form-container form p{
+    margin-top: 10px;
+    font-size: 20px;
+    color: black;
+}
+.form-container form p a{
+    color:orangered;
+}
+
+.form-container form .error-msg{
+    margin: 10px 0;
+    display: block;
+    background: orangered;
+    color: #fff;
+    border-radius: 5px;
+    font-size: 20px;
+    padding: 10px;
+}
+/*end*/
