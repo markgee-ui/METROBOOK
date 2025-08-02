@@ -31,10 +31,11 @@ In Nairobi, commuters often face the inconvenience of long queues and uncertaint
 
 MetroBook/
 │
+├── register.php               # register user account
+├── login.php             # login to user account
 ├── index.php               # Main entry point of the app
-├── booking.php             # Booking form and logic
-├── register.php               # List of available buses
-├── login.php             # Booking confirmation page
+├── booking.php             # Booking form and logic(seat)
+├── print-ticket.php               # print user ticket
 ├── db.php                  # Database connection file
 ├── assets/                 # CSS, JS, Images
 └── README.md               # Project documentation
