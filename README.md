@@ -48,7 +48,7 @@ MetroBook/
 1. **Clone or Download the Project**
    ```bash
    git clone https://markgee-ui/METROBOOK
-````
+
 
 2. **Move the Folder to Your Web Server Directory**
 
@@ -100,18 +100,9 @@ MetroBook/
 ## 📬 Contact
 
 **Developer**: Mark Ngugi
-**Email**: \[[your-email@example.com](mailto:ngugimark93@gmail.com)]
+**Email**: \[[ngugimark93@gmail.com](mailto:ngugimark93@gmail.com)]
 **Location**: Nairobi, Kenya
 
 ---
 
-## 📄 License
 
-This project is open-source and available under the [MIT License](LICENSE).
-
-```
-
----
-
-Let me know if you'd like to include the actual database schema, screenshots, or instructions for deployment on a live server.
-```
