@@ -19,9 +19,9 @@ In Nairobi, commuters often face the inconvenience of long queues and uncertaint
 ## 🛠️ Built With
 
 - **PHP** - Core backend scripting language
-- **HTML/CSS** - For structuring and styling the UI
+- **CSS** - For structuring and styling the UI
 - **MySQL** - Database for storing bookings, users, and bus schedules
-- **XAMPP / LAMP** - For running PHP and MySQL locally
+- **XAMPP** - For running PHP and MySQL locally
 
 ---
 
